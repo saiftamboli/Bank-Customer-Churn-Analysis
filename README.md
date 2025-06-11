@@ -234,3 +234,5 @@ ORDER BY total DESC;
 - Monitor and Address Churn Contributors: Continuously monitor key factors contributing to churn, such as credit score categories, age groups, and gender. Implement proactive measures to address these contributors, such as targeted interventions, loyalty programs, and product enhancements. Conduct focus groups or surveys with customers from 'Fair', 'Poor', and 'Good' credit score segments to understand their pain points and unmet needs.
 
 - Expand Market Reach: While France currently has the highest number of total customers, consider strategies to expand market reach in other regions, such as Germany and Spain. Develop localised marketing campaigns and product offerings to attract and retain customers in these regions.
+
+If you find this resource helpful, please give it a star ⭐️ and share it with others!
