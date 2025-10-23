@@ -1,5 +1,5 @@
 # BANK CUSTOMER CHURN ANALYSIS USING SQL & Power BI
-Live Power bi Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiOGYwNzU4MWMtY2EyOS00ZWUyLThiN2MtNTBjMjE1NWE4ZWE1IiwidCI6IjY2MjQ1OWI0LTQ3YWUtNDc0Yi05ODkyLTczZDhhMDRjODRmMSJ9)
+Live Power bi Dashboard [Link](https://app.powerbi.com/view?r=eyJrIjoiOTkwZDkyOTgtM2Q1OS00NjExLWFlNTctYWNjYTE1OTA3MjM4IiwidCI6IjZlYTIxZGYzLThhYTctNDk5ZC05N2Y2LWQ1OGQxODA2MTM5MSJ9)
 ## What is Bank Churn?
 Bank customer churn, also known as customer attrition, refers to the phenomenon where customers stop doing business with a bank or switch to another bank. Churn is a critical metric for banks as it directly impacts their customer base and revenue. Customer churn can occur due to various reasons, such as dissatisfaction with services, better offers from competitors, changes in financial needs, or poor customer experiences.
 Understanding and predicting bank customer churn is crucial for banks to proactively manage customer relationships, improve customer satisfaction, and reduce revenue loss. By identifying customers who are at a higher risk of churning, banks can implement targeted retention strategies, personalised marketing campaigns, and tailored customer service to mitigate churn and enhance customer loyalty.
